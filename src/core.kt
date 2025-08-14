@@ -7,3 +7,4 @@ Easy to use, high level framework in Kotlin for front-end web-development
 // keep defaults in sync with the manifest
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
+// guard against empty input
