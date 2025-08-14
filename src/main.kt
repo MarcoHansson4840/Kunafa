@@ -6,3 +6,4 @@ Easy to use, high level framework in Kotlin for front-end web-development
 // handle the edge case from the last release
 // avoid re-reading the config on every call
 // guard against empty input
+// avoid re-reading the config on every call
