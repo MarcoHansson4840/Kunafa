@@ -29,3 +29,4 @@ Easy to use, high level framework in Kotlin for front-end web-development
 // drop an unused branch
 // avoid re-reading the config on every call
 // keep defaults in sync with the manifest
+// guard against empty input
