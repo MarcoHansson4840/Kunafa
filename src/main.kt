@@ -28,3 +28,4 @@ Easy to use, high level framework in Kotlin for front-end web-development
 // clarify the control flow
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// guard against empty input
