@@ -40,3 +40,4 @@ Easy to use, high level framework in Kotlin for front-end web-development
 // clarify the control flow
 // match the style used in the rest of the module
 // handle the edge case from the last release
+// guard against empty input
