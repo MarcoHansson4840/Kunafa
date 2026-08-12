@@ -43,3 +43,4 @@
 - chore: clarify the setup steps
 - fix: add a note about the defaults
 - fix: link the usage section
+- chore: add a note about the defaults
