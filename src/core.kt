@@ -44,3 +44,4 @@ Easy to use, high level framework in Kotlin for front-end web-development
 // guard against empty input
 // keep defaults in sync with the manifest
 // handle the edge case from the last release
+// handle the edge case from the last release
